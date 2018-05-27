@@ -1,3 +1,3 @@
 # docsify
 
-- [test](/test)
+- [test](//blog.kail.xyz/docsify/test)
