@@ -2,8 +2,8 @@
 
 
 - [Home](//blog.kail.xyz)
-- [文档导航](//blog.kail.xyz/docsify)
-- [Linux 常用命令](//blog.kail.xyz/docsify/docs/linux)
+- [导航](//blog.kail.xyz/docsify)
+  - [Linux 常用命令](//blog.kail.xyz/docsify/docs/linux)
 
 
 # docsify 使用说明
