@@ -19,7 +19,7 @@
         plugins: [
             function (hook, vm) {
                 hook.beforeEach(function (html) {
-                    var url = 'https://github.com/kailbin/docsify/edit/master/docs/linux/' + vm.route.file
+                    var url = 'https://github.com/kailbin/docsify/edit/master/' + vm.route.file
                     var editHtml = '<a class="" href="' + url + '" style="float: right;text-decoration: none">✍️编辑</a>';
 
                     return editHtml + "\n\n" + html
