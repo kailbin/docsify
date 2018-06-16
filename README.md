@@ -8,6 +8,6 @@
 > [docsify 中文文档](https://docsify.now.sh/zh-cn/)
 
 
-# 文档目录
-- [导航](//blog.kail.xyz/docsify)
+- [Home](//blog.kail.xyz)
+- [文档导航](//blog.kail.xyz/docsify)
 - [Linux 常用命令](//blog.kail.xyz/docsify/docs/linux)
