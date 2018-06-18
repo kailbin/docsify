@@ -12,5 +12,5 @@ yum -y install htop
 ```
 
 ## Read More
-> [官网](http://hisham.hm/htop/)
-> [Linux htop工具使用详解](http://www.open-open.com/lib/view/open1417612210323.html)
+> [官网](http://hisham.hm/htop/)  
+> [Linux htop工具使用详解](http://www.open-open.com/lib/view/open1417612210323.html)  
