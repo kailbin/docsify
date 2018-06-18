@@ -4,6 +4,9 @@
     * [df](command/df.md)
     * [curl](command/curl.md)
     * [lsof](command/lsof.md)
+    * 故障排查
+        * [top](command/top.md)
+        * [htop](command/htop.md)
     * [kill](command/kill/kill.md)
         * [pkill](command/kill/pkill.md)
         * [killall](command/kill/killall.md)
