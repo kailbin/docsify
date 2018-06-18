@@ -5,6 +5,8 @@
     * [curl](command/curl.md)
     * [lsof](command/lsof.md)
     * 故障排查
+        * [ps](command/ps.md)
+        * [pstree](command/pstree.md)
         * [top](command/top.md)
         * [htop](command/htop.md)
     * [kill](command/kill/kill.md)
