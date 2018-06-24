@@ -1,0 +1,7 @@
+* [安装](install.md)
+    * [独立模式](install/stand-alone.md)
+    * [伪分布式模式](install/pseudo-distributed.md)
+* [MapReduce](mapreduce/index.md)
+    * [资源](mapreduce/resources.md)
+* [读书笔记](reading-notes/index.md)
+    * [《Hadoop 权威指南》 读书笔记](reading-notes/Hadoop-The-Definitive-Guide.md)
