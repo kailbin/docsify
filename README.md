@@ -4,7 +4,8 @@
 - [Home](//blog.kail.xyz)
 - [导航](//blog.kail.xyz/docsify)
   - [Java](//blog.kail.xyz/docsify/docs/java)
-  - [Linux 常用命令](//blog.kail.xyz/docsify/docs/linux)
+  - [Linux](//blog.kail.xyz/docsify/docs/linux)
+  - [Git](//blog.kail.xyz/docsify/docs/git)
 
 
 # docsify 使用说明
