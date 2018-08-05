@@ -4,6 +4,7 @@
 - [Home](//blog.kail.xyz)
 - [导航](//blog.kail.xyz/docsify)
   - [Java](//blog.kail.xyz/docsify/docs/java)
+  - [Spring](//blog.kail.xyz/docsify/docs/spring)
   - [Linux](//blog.kail.xyz/docsify/docs/linux)
   - [Git](//blog.kail.xyz/docsify/docs/git)
 

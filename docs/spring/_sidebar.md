@@ -1,4 +1,7 @@
 * Spring Core
+* Spring Beans
+    * [BeanFactory](spring-beans/BeanFactory.md)
+    * [FactoryBean](spring-beans/FactoryBean.md)
 * Spring MVC
     * [HandlerInterceptor](spring-mvc/HandlerInterceptor.md)
     * [WebRequestInterceptor](spring-mvc/WebRequestInterceptor.md)
