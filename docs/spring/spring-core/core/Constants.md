@@ -56,7 +56,7 @@ public class Constants {
    	...
 
 	/**
-	 * 属性迷宫转换为常量名
+	 * 驼峰式属性名转换为常量名
 	 * 
 	 * Example: "imageSize" -> "IMAGE_SIZE"
 	 * Example: "imagesize" -> "IMAGESIZE"

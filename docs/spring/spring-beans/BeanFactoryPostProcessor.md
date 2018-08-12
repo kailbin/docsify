@@ -1,7 +1,7 @@
 
 # BeanFactoryPostProcessor
 
-
+在实例化所有Bean之前会执行 `BeanFactoryPostProcessors`，实现该接口，可以在 Spring 的 Bean 创建之前，修改 Bean的定义属性 等 // TODO “还有什么功能”
 
 ```java
 package org.springframework.beans.factory.config;
@@ -27,8 +27,6 @@ import org.springframework.beans.BeansException;
  * If bean instance interaction is required, consider implementing
  * {@link BeanPostProcessor} instead.
  *
- * @author Juergen Hoeller
- * @since 06.07.2003
  * @see BeanPostProcessor
  * @see PropertyResourceConfigurer
  */
@@ -50,8 +48,11 @@ public interface BeanFactoryPostProcessor {
 
 
 
+【注意】`BeanFactoryPostProcessor` 是在 Spring 容器 加载了 Bean 的定义文件之后，在 Bean 实例化 之前执行的。接口方法的入参是 `ConfigurrableListableBeanFactory` ，使用该参数，可以获取到相关 Bean 的定义信息，例子：
+
 
 
 ## Read More
 
 - [spring之扩展点](https://blog.csdn.net/windsunmoon/article/details/44283585)
+- [Spring的BeanFactoryPostProcessor和BeanPostProcessor接口的区别](https://blog.csdn.net/qq_17612199/article/details/53115446)
