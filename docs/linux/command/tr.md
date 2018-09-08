@@ -45,6 +45,13 @@ SET 是一组字符串，一般都可按照字面含义理解。解析序列如�
 
 ## 常见用法
 
+### 构建classpath
+``` bash
+java -classpath $(echo lib/*.jar | tr ' ' ':') Test
+```
+
+> [java classpath如何指定一个目录](https://www.hutuseng.com/article/how-to-set-multiple-jars-in-java-classpath)
+
 ### 大小写转换
 ``` bash
 echo "HELLO WORLD" | tr 'A-Z' 'a-z'
