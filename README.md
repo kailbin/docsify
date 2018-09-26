@@ -5,6 +5,7 @@
 - [导航](//blog.kail.xyz/docsify)
   - [Java](//blog.kail.xyz/docsify/docs/java)
   - [Spring](//blog.kail.xyz/docsify/docs/spring)
+  - [Spring Cloud](//blog.kail.xyz/docsify/docs/spring-cloud)
   - [Linux](//blog.kail.xyz/docsify/docs/linux)
   - [Git](//blog.kail.xyz/docsify/docs/git)
   - [JMeter](//blog.kail.xyz/docsify/docs/jmeter)
