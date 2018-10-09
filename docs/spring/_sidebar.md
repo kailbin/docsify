@@ -33,9 +33,4 @@
     * [WebRequestInterceptor](spring-webmvc/WebRequestInterceptor.md)
     * [OncePerRequestFilter](spring-webmvc/OncePerRequestFilter.md)
     * [**WebMvcConfigurerAdapter**](spring-webmvc/WebMvcConfigurerAdapter.md)
-* Spring Boot 迁移
-    * [Actuator](spring-boot/actuator/index.md)
-        * [Endpoints](spring-boot/actuator/endpoints.md)
-        * [Endpoints 详解](spring-boot/actuator/endpoints-detail.md)
-        * [ReadMore](spring-boot/actuator/read-more.md)
 
