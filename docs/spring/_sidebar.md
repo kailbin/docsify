@@ -5,7 +5,7 @@
         * [_Conventions](spring-core/core/Conventions.md)
         * [_ParameterizedTypeReference](spring-core/core/ParameterizedTypeReference.md)
     * io 包
-        * [_Resource](spring-core/io/Resource.md)
+        * [Resource](spring-core/io/Resource.md)
         * [ResourceLoader](spring-core/io/ResourceLoader.md)
         * [_ResourcePatternResolver](spring-core/io/ResourcePatternResolver.md)
     * util 包
