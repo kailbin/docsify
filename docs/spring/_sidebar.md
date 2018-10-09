@@ -2,6 +2,12 @@
     * core 包
         * [Constants](spring-core/core/Constants.md)
         * [SpringVersion](spring-core/core/SpringVersion.md)
+        * [_Conventions](spring-core/core/Conventions.md)
+        * [_ParameterizedTypeReference](spring-core/core/ParameterizedTypeReference.md)
+    * io 包
+        * [_Resource](spring-core/io/Resource.md)
+        * [ResourceLoader](spring-core/io/ResourceLoader.md)
+        * [_ResourcePatternResolver](spring-core/io/ResourcePatternResolver.md)
     * util 包
         * [AntPathMatcher](spring-core/util/AntPathMatcher.md)
         * [_Base64Utils](spring-core/util/Base64Utils.md)
@@ -18,6 +24,7 @@
       * [DisposableBean](spring-beans/lifecycle/DisposableBean.md)
 * Spring Context
     * [ApplicationContext](spring-context/ApplicationContext.md)
+    * [_ConfigurationClassUtils](spring-context/ConfigurationClassUtils.md)
 * Spring AOP
     - [MethodInterceptor](spring-aop/MethodInterceptor.md)
 * Spring Web

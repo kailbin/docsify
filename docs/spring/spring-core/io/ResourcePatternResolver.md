@@ -1,6 +1,6 @@
-# PathMatchingResourcePatternResolver
+# ResourcePatternResolver
 
-`PathMatchingResourcePatternResolver` 的继承关系如下
+`ResourcePatternResolver` 的继承关系如下
 
 ```text
 org.springframework.core.io.ResourceLoader
