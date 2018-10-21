@@ -1,0 +1,13 @@
+
+* [Monitor the JVM](build-in-tools/monitor.md)
+    * [jps](build-in-tools/monitor/jps.md)
+    * [jstat](build-in-tools/monitor/jstat.md)
+    * [jstatd](build-in-tools/monitor/jstatd.md)
+    * [jmc](build-in-tools/monitor/jmc.md)
+* [Troubleshooting](build-in-tools/troubleshooting.md)
+    * [jcmd](build-in-tools/troubleshooting/jcmd.md)
+    * [jinfo](build-in-tools/troubleshooting/jinfo.md)
+    * [jmap](build-in-tools/troubleshooting/jmap.md)
+    * [jhat](build-in-tools/troubleshooting/jhat.md)
+    * [jstack](build-in-tools/troubleshooting/jstack.md)
+    * [jsadebugd](build-in-tools/troubleshooting/jsadebugd.md)

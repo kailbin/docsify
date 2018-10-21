@@ -10,11 +10,16 @@
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+<nav>
+    <a href="http://blog.kail.xyz/docsify/">Home</a>
+    <a href="#">首页</a>
+</nav>
 <div id="app">加载中...</div>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script>
     window.$docsify = {
         loadSidebar: true,
+        subMaxLevel: 2,
         // 在页面右上角渲染一个 GitHub Corner 挂件
         repo: 'kailbin/docsify',
         plugins: [
