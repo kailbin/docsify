@@ -1,2 +1,5 @@
 * [错误页面](error-page.md)
-
+* [Actuator](actuator/index.md)
+    * [Endpoints](actuator/endpoints.md)
+    * [Endpoints 详解](actuator/endpoints-detail.md)
+    * [ReadMore](actuator/read-more.md)
