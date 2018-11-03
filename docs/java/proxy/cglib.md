@@ -2,10 +2,8 @@
 
 cglib 是针对类来实现代理的，原理是对指定的业务类**生成一个子类**，并覆盖父类(被代理类)方法实现代理。因为采用的是继承，所以不能对 final 修饰的类进行代理。  
 
-- `cglib-nodep-x.x.x.jar`：使用no dep包不需要关联asm的jar包,jar包内部包含asm的类.
-- `cglib-x.x.x.jar`：使用此jar包需要关联asm的jar包,否则运行时报错.
-
-
+- `cglib-nodep-x.x.x.jar`：使用no dep包不需要关联asm的jar包,jar包内部包含asm的类
+- `cglib-x.x.x.jar`：使用此jar包需要关联asm的jar包,否则运行时报错
 
 # cglib 的使用方式
 
