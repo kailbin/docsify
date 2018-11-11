@@ -10,11 +10,7 @@
 - 编译期织入，
   - **编译时织入**，利用 ajc编译器 替代 javac编译器，直接将源文件(java或者aspect文件)编译成class文件并将切面织入进代码
   - **编译后织入**，利用 ajc编译器 向javac编译期编译后的class文件或jar文件织入切面代码
-- **加载期织入**，不使用 ajc编译器，利用 aspectjweaver.jar 工具，使用 `java agent代理` 在类加载期将切面织入进代码
-
-
-
-
+- **加载期织入**，不使用 ajc编译器，利用 aspectjweaver.jar 工具，使用 `java agent代理` 或 `ClassLoader` 在类加载期将切面织入进代码
 
 
 

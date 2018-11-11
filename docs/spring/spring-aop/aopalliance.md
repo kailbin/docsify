@@ -12,7 +12,7 @@
 
 目前 Spring 已把改包 纳入到了 `spring-aop` 模块里面，所以无需依赖。
 
-## 包机构
+## 包结构
 
 - org.aopalliance
   - aop
@@ -33,7 +33,6 @@
 
     - MethodInvocation：方法的调用：获取 Method 对象
 
-      
 
 ## 继承结构
 
