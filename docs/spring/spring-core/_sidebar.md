@@ -13,3 +13,4 @@
     * [_ClassUtils](spring-core/util/ClassUtils.md)
     * [_ReflectionUtils](spring-core/util/ReflectionUtils.md)
     * [_ResourceUtils](spring-core/util/ResourceUtils.md)
+* [Objenesis](spring-core/objenesis.md)
