@@ -4,4 +4,6 @@
     - [编码](spring-tx/usage-mode/code.md)
     - [注解]()
     - [AOP]()
+- TransactionInterceptor
+- SpringTransactionAnnotationParser
 

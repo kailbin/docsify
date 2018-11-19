@@ -1,14 +1,14 @@
 * [概念](spring-aop/core.md)
-* **使用方式**
-  * _编码
-  * _基于 XML
-  * _基于注解
 * [aopalliance](spring-aop/aopalliance.md)
-* [_AspectJ](spring-aop/AspectJ/AspectJ.md)
-  * _AspectJ 语法
-  * _基于注解
-* [_MethodInterceptor](spring-aop/MethodInterceptor.md)
+* **Spring AOP 使用方式**
+  * [**基于AspectJ注解**](spring-aop/usage/annotation-usage.md)
+  * [**基于 Schema**](spring-aop/usage/schema-xml-usage.md)
+  * [基于编码](spring-aop/usage/code-usage.md)
 * **Handlers**
   * **AopNamespaceHandler**
     * [&lt;aop: spring-configured/&gt;](spring-aop/handlers/AopNamespaceHandler/spring-configured.md)
+* _AopProxy
+  * _DefaultAopProxyFactory
+  * _JdkDynamicAopProxy
+  * _CglibAopProxy & ObjenesisCglibAopProxy
 
