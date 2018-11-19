@@ -189,6 +189,4 @@ method 222
   - cglib代理，
 
 
-
-# cglib 几种使用方式
-
+ TODO 详见 Spring Core cglib
