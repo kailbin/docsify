@@ -7,7 +7,7 @@
       - [htop](command/htop.md)
     - *网络*
       - [mtr](command/mtr.md)
-      - tcpdump
+      - [tcpdump](command/tcpdump.md)
       - nslookup
       - route
 * *常用命令*

@@ -5,3 +5,6 @@
 - DNS 配置： [/etc/resolv.conf](etc/resolv.conf.md)
 - IP 配置： [/etc/sysconfig/network-scripts/ifcfg-eth0.md](etc/sysconfig/network-scripts/ifcfg-eth0.md)
 
+# Read More
+
+- [AIX® 命令 中文文档](https://www.ibm.com/support/knowledgecenter/zh/ssw_aix_72/com.ibm.aix.cmds.navigation/alphabeticallistofcommands.htm)
