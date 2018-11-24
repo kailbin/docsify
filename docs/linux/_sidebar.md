@@ -1,38 +1,45 @@
-* 常用命令
+* [首页](README.md)
+* *故障排查*
+    - *进程*
+      - [ps](command/ps.md)
+      - [pstree](command/pstree.md)
+      - [top](command/top.md)
+      - [htop](command/htop.md)
+    - *网络*
+      - [mtr](command/mtr.md)
+      - [tcpdump](command/tcpdump.md)
+      - nslookup
+      - route
+* *常用命令*
     * [ls](command/ls.md)
     * [du](command/du.md)
     * [df](command/df.md)
     * [curl](command/curl.md)
     * [lsof](command/lsof.md)
-    * 故障排查
-        * [ps](command/ps.md)
-        * [pstree](command/pstree.md)
-        * [top](command/top.md)
-        * [htop](command/htop.md)
     * [kill](command/kill/kill.md)
         * [pkill](command/kill/pkill.md)
         * [killall](command/kill/killall.md)
-    * 权限
-        * [chmod](command/auth/chmod.md)
-        * [chown](command/auth/chown.md)
-        * [chgrp](command/auth/chgrp.md)
-        * [chattr](command/auth/chattr.md)
-        * [lsattr](command/auth/lsattr.md)
-    * 字符串操作
-        * grep
-            * [*grep](command/_grep.md)
-        * [tr](command/tr.md)
-    * 小工具
-        * [date](command/tools/date.md)
-        * [time](command/tools/time.md)
-    * [网络](command/network/index.md)
-        * [ssh](command/network/ssh.md)
-            * [SSH 隧道](command/network/ssh/turnnel.md)
-        * [ssh-keygen](command/network/ssh-keygen.md)
-    * 系统管理
-        * [service](command/system/service.md)
-        * [chkconfig](command/system/chkconfig.md)
-        * [systemd](command/system/systemd.md)
+* *权限*
+    - [chmod](command/auth/chmod.md)
+    - [chown](command/auth/chown.md)
+    - [chgrp](command/auth/chgrp.md)
+    - [chattr](command/auth/chattr.md)
+    - [lsattr](command/auth/lsattr.md)
+* *字符串操作*
+    * grep
+        * [*grep](command/_grep.md)
+    * [tr](command/tr.md)
+* *小工具*
+    * [date](command/tools/date.md)
+    * [time](command/tools/time.md)
+* *网络*
+    * [ssh](command/network/ssh.md)
+        * [SSH 隧道](command/network/ssh/turnnel.md)
+    * [ssh-keygen](command/network/ssh-keygen.md)
+* 系统管理
+    * [service](command/system/service.md)
+    * [chkconfig](command/system/chkconfig.md)
+    * [systemd](command/system/systemd.md)
 * Shell
     * [循环](shell/foreach.md)
     * [逻辑判断](shell/if.md)
