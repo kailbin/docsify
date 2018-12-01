@@ -10,28 +10,30 @@
       - [tcpdump](command/tcpdump.md)
       - nslookup
       - route
+    - 监控
+      - sysstat
 * *常用命令*
     * [ls](command/ls.md)
     * [du](command/du.md)
     * [df](command/df.md)
     * [curl](command/curl.md)
     * [lsof](command/lsof.md)
-    * [kill](command/kill/kill.md)
-        * [pkill](command/kill/pkill.md)
-        * [killall](command/kill/killall.md)
+    * [kill](command/kill.md)
+        * [pkill](command/pkill.md)
+        * [killall](command/killall.md)
 * *权限*
-    - [chmod](command/auth/chmod.md)
-    - [chown](command/auth/chown.md)
-    - [chgrp](command/auth/chgrp.md)
-    - [chattr](command/auth/chattr.md)
-    - [lsattr](command/auth/lsattr.md)
+    - [chmod](command/chmod.md)
+    - [chown](command/chown.md)
+    - [chgrp](command/chgrp.md)
+    - [chattr](command/chattr.md)
+    - [lsattr](command/lsattr.md)
 * *字符串操作*
     * grep
         * [*grep](command/_grep.md)
     * [tr](command/tr.md)
 * *小工具*
-    * [date](command/tools/date.md)
-    * [time](command/tools/time.md)
+    * [date](command/date.md)
+    * [time](command/time.md)
 * *网络*
     * [ssh](command/network/ssh.md)
         * [SSH 隧道](command/network/ssh/turnnel.md)
@@ -49,3 +51,5 @@
     * /sysconfig
         * /network-scripts
             * [ifcfg-eth0](etc/sysconfig/network-scripts/ifcfg-eth0.md)
+* /proc
+    * [cpuinfo](proc/cpuinfo.md)
