@@ -11,6 +11,8 @@
     - [Spring Cloud](//blog.kail.xyz/docsify/docs/spring-cloud)
   - [Linux](//blog.kail.xyz/docsify/docs/linux)
   - [Git](//blog.kail.xyz/docsify/docs/git)
+  - [Python](//blog.kail.xyz/docsify/docs/python)
+  - [TensorFlow](//blog.kail.xyz/docsify/docs/tensorflow)
   - [JMeter](//blog.kail.xyz/docsify/docs/jmeter)
 
 # 文档
