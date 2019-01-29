@@ -1,6 +1,5 @@
 # 学习资源
 
-- w3cschool [「中文」TensorFlow官方文档](https://www.w3cschool.cn/tensorflow_python/)
 - [Tensorflow 免费中文视频教程，开源代码，免费书籍](https://github.com/fendouai/Free-Tensorflow)
 
 
