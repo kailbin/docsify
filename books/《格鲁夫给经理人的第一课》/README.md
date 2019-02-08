@@ -15,3 +15,4 @@
 
 - [《格鲁夫给经理人的第一课》读书笔记](https://www.jianshu.com/p/4df7768e502e)
 
+> docsify serve ./books/《格鲁夫给经理人的第一课》/
