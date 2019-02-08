@@ -16,7 +16,7 @@
   - [JMeter](//blog.kail.xyz/docsify/docs/jmeter)
 
 # 读书笔记
-- [《格鲁夫给经理人的第一课》](//blog.kail.xyz/docsify/books/《格鲁夫给经理人的第一课》)
+- 在读[《格鲁夫给经理人的第一课》](//blog.kail.xyz/docsify/books/《格鲁夫给经理人的第一课》) ✭✭✭✬✩
 
 # 文档
 
