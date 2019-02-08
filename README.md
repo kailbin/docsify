@@ -15,6 +15,9 @@
   - [TensorFlow](//blog.kail.xyz/docsify/docs/tensorflow)
   - [JMeter](//blog.kail.xyz/docsify/docs/jmeter)
 
+# 读书笔记
+- [《格鲁夫给经理人的第一课》](//blog.kail.xyz/docsify/books/《格鲁夫给经理人的第一课》)
+
 # 文档
 
 - [[中文]Spring Framework 开发参考手册 2.5.2 ](http://shouce.jb51.net/spring/)
