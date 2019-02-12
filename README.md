@@ -17,6 +17,7 @@
 
 # 读书笔记
 - 在读[《格鲁夫给经理人的第一课》](//blog.kail.xyz/docsify/books/《格鲁夫给经理人的第一课》) ✭✭✭✬✩
+- 在读[《黑客与画家》](//blog.kail.xyz/docsify/books/《黑客与画家》) ✭✭✭✩✩
 
 # 文档
 
