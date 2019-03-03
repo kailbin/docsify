@@ -6,6 +6,7 @@
 - [Home](//blog.kail.xyz)
 - [导航](//blog.kail.xyz/docsify)
   - [Java](//blog.kail.xyz/docsify/docs/java)
+  - [Maven](//blog.kail.xyz/docsify/docs/maven)
   - [Spring](//blog.kail.xyz/docsify/docs/spring)
     - [Spring Boot](//blog.kail.xyz/docsify/docs/spring-boot)
     - [Spring Cloud](//blog.kail.xyz/docsify/docs/spring-cloud)
