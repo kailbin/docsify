@@ -17,10 +17,16 @@
 
 # Hello World Example
 
-- [Maven](https://hello-world-example.github.io/Maven/)
-- [MySQL](https://hello-world-example.github.io/MySQL/)
-- [PostgreSQL](https://hello-world-example.github.io/PostgreSQL/)
-- [RocketMQ](https://hello-world-example.github.io/RocketMQ/)
+- Java
+  - [Maven](https://hello-world-example.github.io/Maven/)
+  - [Guava](https://hello-world-example.github.io/Guava/)
+- DB
+  - [MySQL](https://hello-world-example.github.io/MySQL/)
+  - [PostgreSQL](https://hello-world-example.github.io/PostgreSQL/)
+  - [ElasticSearch](https://hello-world-example.github.io/ElasticSearch/)
+- MQ
+  - [RocketMQ](https://hello-world-example.github.io/RocketMQ/)
+  - [Kafka](https://hello-world-example.github.io/Kafka/)
 
 
 # 读书笔记
