@@ -6,7 +6,6 @@
 - [Home](//blog.kail.xyz)
 - [导航](//blog.kail.xyz/docsify)
   - [Java](//blog.kail.xyz/docsify/docs/java)
-  - [Maven](//blog.kail.xyz/docsify/docs/maven)
   - [Spring](//blog.kail.xyz/docsify/docs/spring)
     - [Spring Boot](//blog.kail.xyz/docsify/docs/spring-boot)
     - [Spring Cloud](//blog.kail.xyz/docsify/docs/spring-cloud)
@@ -18,7 +17,11 @@
 
 # Hello World Example
 
+- [Maven](https://hello-world-example.github.io/Maven/)
+- [MySQL](https://hello-world-example.github.io/MySQL/)
+- [PostgreSQL](https://hello-world-example.github.io/PostgreSQL/)
 - [RocketMQ](https://hello-world-example.github.io/RocketMQ/)
+
 
 # 读书笔记
 - 在读[《格鲁夫给经理人的第一课》](//blog.kail.xyz/docsify/books/《格鲁夫给经理人的第一课》) ✭✭✭✬✩
