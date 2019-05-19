@@ -1,8 +1,0 @@
-* [Spring Core](spring-core/)
-* [Spring Beans](spring-beans/)
-* [Spring Context](spring-context/)
-* [Spring AOP](spring-aop/)
-* [Spring TX](spring-tx/)
-* [Spring Web MVC](spring-webmvc/)
-* [FAQ](spring-faq/)
-
