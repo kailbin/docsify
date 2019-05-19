@@ -6,9 +6,6 @@
 - [Home](//blog.kail.xyz)
 - [导航](//blog.kail.xyz/docsify)
   - [Java](//blog.kail.xyz/docsify/docs/java)
-  - [Spring](//blog.kail.xyz/docsify/docs/spring)
-    - [Spring Boot](//blog.kail.xyz/docsify/docs/spring-boot)
-    - [Spring Cloud](//blog.kail.xyz/docsify/docs/spring-cloud)
   - [Linux](//blog.kail.xyz/docsify/docs/linux)
   - [Git](//blog.kail.xyz/docsify/docs/git)
   - [Python](//blog.kail.xyz/docsify/docs/python)
@@ -20,6 +17,10 @@
 - Java
   - [Maven](https://hello-world-example.github.io/Maven/)
   - [Guava](https://hello-world-example.github.io/Guava/)
+- Framework
+  - [Spring](https://hello-world-example.github.io/Spring/)
+  - [Spring Boot](https://hello-world-example.github.io/Spring-Boot/)
+  - [Spring Cloud](https://hello-world-example.github.io/Spring-Cloud/)
 - DB
   - [MySQL](https://hello-world-example.github.io/MySQL/)
   - [PostgreSQL](https://hello-world-example.github.io/PostgreSQL/)
