@@ -28,7 +28,12 @@
 - MQ
   - [RocketMQ](https://hello-world-example.github.io/RocketMQ/)
   - [Kafka](https://hello-world-example.github.io/Kafka/)
-
+- ops
+  - [Linux](https://hello-world-example.github.io/Linux/)
+  - [HAProxy](https://hello-world-example.github.io/HAProxy/)
+  - [Nginx](https://hello-world-example.github.io/Nginx/)
+  
+  
 
 # 读书笔记
 - 在读[《格鲁夫给经理人的第一课》](//blog.kail.xyz/docsify/books/《格鲁夫给经理人的第一课》) ✭✭✭✬✩
