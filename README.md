@@ -6,7 +6,6 @@
 - [Home](//blog.kail.xyz)
 - [导航](//blog.kail.xyz/docsify)
   - [Java](//blog.kail.xyz/docsify/docs/java)
-  - [Linux](//blog.kail.xyz/docsify/docs/linux)
   - [Git](//blog.kail.xyz/docsify/docs/git)
   - [Python](//blog.kail.xyz/docsify/docs/python)
   - [TensorFlow](//blog.kail.xyz/docsify/docs/tensorflow)
