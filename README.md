@@ -7,7 +7,6 @@
 - [导航](//blog.kail.xyz/docsify)
   - [Java](//blog.kail.xyz/docsify/docs/java)
   - [Git](//blog.kail.xyz/docsify/docs/git)
-  - [Python](//blog.kail.xyz/docsify/docs/python)
   - [TensorFlow](//blog.kail.xyz/docsify/docs/tensorflow)
   - [JMeter](//blog.kail.xyz/docsify/docs/jmeter)
 
@@ -29,8 +28,11 @@
   - [Kafka](https://hello-world-example.github.io/Kafka/)
 - ops
   - [Linux](https://hello-world-example.github.io/Linux/)
+  - [Keepalived](https://hello-world-example.github.io/Keepalived/)
   - [HAProxy](https://hello-world-example.github.io/HAProxy/)
   - [Nginx](https://hello-world-example.github.io/Nginx/)
+- Language
+  - [Python](https://hello-world-example.github.io/Python/)
   
   
 
