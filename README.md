@@ -3,12 +3,11 @@
 
 # 笔记
 
-- [Home](//blog.kail.xyz)
-- [导航](//blog.kail.xyz/docsify)
-  - [Java](//blog.kail.xyz/docsify/docs/java)
-  - [Git](//blog.kail.xyz/docsify/docs/git)
-  - [TensorFlow](//blog.kail.xyz/docsify/docs/tensorflow)
-  - [JMeter](//blog.kail.xyz/docsify/docs/jmeter)
+- [Home](//kailbin.github.io)
+- [导航](//kailbin.github.io/docsify)
+  - [Java](//kailbin.github.io/docsify/docs/java)
+  - [TensorFlow](//kailbin.github.io/docsify/docs/tensorflow)
+  - [JMeter](//kailbin.github.io/docsify/docs/jmeter)
 
 # Hello World Example
 
@@ -37,8 +36,8 @@
   
 
 # 读书笔记
-- 在读[《格鲁夫给经理人的第一课》](//blog.kail.xyz/docsify/books/《格鲁夫给经理人的第一课》) ✭✭✭✬✩
-- 在读[《黑客与画家》](//blog.kail.xyz/docsify/books/《黑客与画家》) ✭✭✭✩✩
+- 在读[《格鲁夫给经理人的第一课》](//kailbin.github.io/docsify/books/《格鲁夫给经理人的第一课》) ✭✭✭✬✩
+- 在读[《黑客与画家》](//kailbin.github.io/docsify/books/《黑客与画家》) ✭✭✭✩✩
 
 # 文档
 
